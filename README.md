@@ -72,4 +72,9 @@ Projemiz boyunca bizlerden desteğini, bilgi birikimini ve vizyonunu esirgemeyen
 ## Admin Sayfası
 <img width="1298" height="793" alt="image" src="https://github.com/user-attachments/assets/2e3c477b-1777-461b-a36c-0de189abed5d" />
 
+## ER Diyagramı - UML Diyagramı Sayfası
+<img width="1414" height="2000" alt="ER Diyagramı (1)" src="https://github.com/user-attachments/assets/70857f07-94d3-4b05-95b9-fea5df220f47" />
+
+
+
 
